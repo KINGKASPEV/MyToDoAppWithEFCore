@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Core\\MyToDoApp.Core.csproj": {}
+    "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Core\\MyToDoApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Core\\MyToDoApp.Core.csproj": {
+    "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Core\\MyToDoApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Core\\MyToDoApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Core\\MyToDoApp.Core.csproj",
         "projectName": "MyToDoApp.Core",
-        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Core\\MyToDoApp.Core.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Core\\MyToDoApp.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

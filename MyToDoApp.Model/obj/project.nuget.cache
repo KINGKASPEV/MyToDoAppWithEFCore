@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKk6YXmWoTrcu5rM/BWVRSWo4HkuhJzj5P122+anFQFt09OR4Iz3o+B0heMICohirmdpDA5GtMQJmkEDxSpGbA==",
+  "dgSpecHash": "KTt6wbWAOWGNp/HE6PJHDl+AHCfDPJbrJaWxzUbVp2yAY6ymg7wugm4gWiJpYfybBgf4oTDT7R32sjlvziJmFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

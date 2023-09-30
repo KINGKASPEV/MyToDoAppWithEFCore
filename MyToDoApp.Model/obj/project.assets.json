@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
       "projectName": "MyToDoApp.Model",
-      "projectPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

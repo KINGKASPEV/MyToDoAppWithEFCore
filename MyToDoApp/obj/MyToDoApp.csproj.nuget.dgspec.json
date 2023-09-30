@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp\\MyToDoApp.csproj": {}
+    "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp\\MyToDoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Data\\MyToDoApp.Data.csproj": {
+    "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Data\\MyToDoApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Data\\MyToDoApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Data\\MyToDoApp.Data.csproj",
         "projectName": "MyToDoApp.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Data\\MyToDoApp.Data.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Data\\MyToDoApp.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj"
+              "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj": {
+    "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
         "projectName": "MyToDoApp.Model",
-        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\MyToDoApp.Model.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Model\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp\\MyToDoApp.csproj": {
+    "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp\\MyToDoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp\\MyToDoApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp\\MyToDoApp.csproj",
         "projectName": "MyToDoApp",
-        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp\\MyToDoApp.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp\\MyToDoApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -178,8 +178,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Data\\MyToDoApp.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\MyToDoApp\\MyToDoApp\\MyToDoApp.Data\\MyToDoApp.Data.csproj"
+              "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Data\\MyToDoApp.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\MyToDoAppWithEFCore\\MyToDoApp.Data\\MyToDoApp.Data.csproj"
               }
             }
           }

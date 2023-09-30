@@ -26,3 +26,17 @@ C:\Users\user\Desktop\MyToDoApp\MyToDoApp\MyToDoApp.Model\obj\Debug\net6.0\refin
 C:\Users\user\Desktop\MyToDoApp\MyToDoApp\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.pdb
 C:\Users\user\Desktop\MyToDoApp\MyToDoApp\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.genruntimeconfig.cache
 C:\Users\user\Desktop\MyToDoApp\MyToDoApp\MyToDoApp.Model\obj\Debug\net6.0\ref\MyToDoApp.Model.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\bin\Debug\net6.0\MyToDoApp.Model.deps.json
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\bin\Debug\net6.0\MyToDoApp.Model.runtimeconfig.json
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\bin\Debug\net6.0\MyToDoApp.Model.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\bin\Debug\net6.0\MyToDoApp.Model.pdb
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\refint\MyToDoApp.Model.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.pdb
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\MyToDoApp.Model.genruntimeconfig.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Model\obj\Debug\net6.0\ref\MyToDoApp.Model.dll
