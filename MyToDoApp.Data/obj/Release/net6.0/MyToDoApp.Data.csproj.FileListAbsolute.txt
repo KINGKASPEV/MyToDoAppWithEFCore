@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\bin\Release\net6.0\MyToDoApp.Data.deps.json
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\bin\Release\net6.0\MyToDoApp.Data.runtimeconfig.json
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\bin\Release\net6.0\MyToDoApp.Data.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\bin\Release\net6.0\MyToDoApp.Data.pdb
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\bin\Release\net6.0\MyToDoApp.Model.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\bin\Release\net6.0\MyToDoApp.Model.pdb
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.csproj.CopyComplete
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\refint\MyToDoApp.Data.dll
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.pdb
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\MyToDoApp.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\MyToDoAppWithEFCore\MyToDoApp.Data\obj\Release\net6.0\ref\MyToDoApp.Data.dll

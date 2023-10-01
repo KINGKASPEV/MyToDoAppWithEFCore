@@ -31,6 +31,12 @@
             components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             dataGridView1 = new DataGridView();
+            Id = new DataGridViewTextBoxColumn();
+            Task = new DataGridViewTextBoxColumn();
+            Description = new DataGridViewTextBoxColumn();
+            CreatedAt = new DataGridViewTextBoxColumn();
+            UpdatedAt = new DataGridViewTextBoxColumn();
+            IsCompleted = new DataGridViewCheckBoxColumn();
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
@@ -47,12 +53,6 @@
             textBox2 = new TextBox();
             button8 = new Button();
             timer1 = new System.Windows.Forms.Timer(components);
-            Id = new DataGridViewTextBoxColumn();
-            Task = new DataGridViewTextBoxColumn();
-            Description = new DataGridViewTextBoxColumn();
-            CreatedAt = new DataGridViewTextBoxColumn();
-            UpdatedAt = new DataGridViewTextBoxColumn();
-            IsCompleted = new DataGridViewCheckBoxColumn();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -61,15 +61,60 @@
             dataGridView1.AllowUserToAddRows = false;
             dataGridView1.AllowUserToDeleteRows = false;
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-            dataGridView1.BackgroundColor = SystemColors.AppWorkspace;
+            dataGridView1.BackgroundColor = SystemColors.MenuBar;
+            dataGridView1.BorderStyle = BorderStyle.Fixed3D;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Id, Task, Description, CreatedAt, UpdatedAt, IsCompleted });
             dataGridView1.Location = new Point(0, 338);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 62;
             dataGridView1.RowTemplate.Height = 33;
-            dataGridView1.Size = new Size(1824, 700);
+            dataGridView1.Size = new Size(1824, 712);
             dataGridView1.TabIndex = 0;
+            // 
+            // Id
+            // 
+            Id.AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
+            Id.DataPropertyName = "Id";
+            Id.HeaderText = "Id";
+            Id.MinimumWidth = 8;
+            Id.Name = "Id";
+            Id.Width = 150;
+            // 
+            // Task
+            // 
+            Task.DataPropertyName = "Task";
+            Task.HeaderText = "Task";
+            Task.MinimumWidth = 8;
+            Task.Name = "Task";
+            // 
+            // Description
+            // 
+            Description.DataPropertyName = "Description";
+            Description.HeaderText = "Description";
+            Description.MinimumWidth = 8;
+            Description.Name = "Description";
+            // 
+            // CreatedAt
+            // 
+            CreatedAt.HeaderText = "DateCreated";
+            CreatedAt.MinimumWidth = 8;
+            CreatedAt.Name = "CreatedAt";
+            // 
+            // UpdatedAt
+            // 
+            UpdatedAt.HeaderText = "DateUpdated";
+            UpdatedAt.MinimumWidth = 8;
+            UpdatedAt.Name = "UpdatedAt";
+            // 
+            // IsCompleted
+            // 
+            IsCompleted.DataPropertyName = "IsCompleted";
+            IsCompleted.HeaderText = "Completed";
+            IsCompleted.MinimumWidth = 8;
+            IsCompleted.Name = "IsCompleted";
+            IsCompleted.Resizable = DataGridViewTriState.True;
+            IsCompleted.SortMode = DataGridViewColumnSortMode.Automatic;
             // 
             // button1
             // 
@@ -162,6 +207,7 @@
             label1.AutoSize = true;
             label1.BackColor = SystemColors.HotTrack;
             label1.Font = new Font("Segoe UI", 16F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = SystemColors.MenuBar;
             label1.Location = new Point(527, 9);
             label1.Name = "label1";
             label1.Size = new Size(781, 45);
@@ -229,50 +275,6 @@
             // timer1
             // 
             timer1.Tick += Mytimer_Tick_1;
-            // 
-            // Id
-            // 
-            Id.AutoSizeMode = DataGridViewAutoSizeColumnMode.None;
-            Id.DataPropertyName = "Id";
-            Id.HeaderText = "Id";
-            Id.MinimumWidth = 8;
-            Id.Name = "Id";
-            Id.Width = 150;
-            // 
-            // Task
-            // 
-            Task.DataPropertyName = "Task";
-            Task.HeaderText = "Task";
-            Task.MinimumWidth = 8;
-            Task.Name = "Task";
-            // 
-            // Description
-            // 
-            Description.DataPropertyName = "Description";
-            Description.HeaderText = "Description";
-            Description.MinimumWidth = 8;
-            Description.Name = "Description";
-            // 
-            // CreatedAt
-            // 
-            CreatedAt.HeaderText = "DateCreated";
-            CreatedAt.MinimumWidth = 8;
-            CreatedAt.Name = "CreatedAt";
-            // 
-            // UpdatedAt
-            // 
-            UpdatedAt.HeaderText = "DateUpdated";
-            UpdatedAt.MinimumWidth = 8;
-            UpdatedAt.Name = "UpdatedAt";
-            // 
-            // IsCompleted
-            // 
-            IsCompleted.DataPropertyName = "IsCompleted";
-            IsCompleted.HeaderText = "Completed";
-            IsCompleted.MinimumWidth = 8;
-            IsCompleted.Name = "IsCompleted";
-            IsCompleted.Resizable = DataGridViewTriState.True;
-            IsCompleted.SortMode = DataGridViewColumnSortMode.Automatic;
             // 
             // Form1
             // 
